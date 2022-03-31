@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-:books: I'm currently learning .NET and React with Next.js with hope to become a Fullstack Developer.
+:books: In my spare time I'm currently learning:
+
+* .NET 
+* React with Next.js
+* SwiftUI
 
 :mortar_board: I'm second year student of Computer Science and AI at AGH University of Science and Technology in Cracow, Poland.
 
